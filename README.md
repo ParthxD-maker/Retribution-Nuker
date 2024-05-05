@@ -33,6 +33,7 @@ Fastest and Best Nuker in Python .gg/secular
 - [ ] Create Stickers [Soon]
 - [ ] Delete Stickers [Soon]
 - [ ] Create Emojis [Soon]
+- [ ] Nuke Command [Soon]
 
 
 # Devs
