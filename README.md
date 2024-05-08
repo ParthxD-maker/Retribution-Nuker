@@ -1,5 +1,5 @@
 # Retribution-Nuker
-Fastest and Best Nuker in Python .gg/secular
+Fastest and Best Nuker in Python .gg/hindustani
 
 
 # Installation
@@ -39,7 +39,7 @@ Fastest and Best Nuker in Python .gg/secular
 # Devs
 - ReXx, Adarsh and Unknown
 - Discord id :- rex_4sure, .sanatani., unknown.4.sure
-- Support Server :- discord.gg/secular
+- Support Server :- https://discord.gg/hindustani
 - Instagram :- ths.rexx, next2beat, shyameditzz
 
 
