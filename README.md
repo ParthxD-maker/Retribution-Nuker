@@ -5,7 +5,7 @@ Fastest and Best Nuker in Python .gg/hindustani
 # Installation
 - Download it from Github
 - After That Extract the zip, then open the folder
-- the open `Retribution.exe`
+- the open `THE RETRIBUTION.exe`
 - Put Bot Token and Guild Id
 - Enjoy :>
 
